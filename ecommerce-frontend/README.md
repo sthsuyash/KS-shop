@@ -28,6 +28,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   - Add products to shopping cart
   - Shopping cart checkout
 
+  - Download the HTML template starter files
+  - Install bootstrap css styles locally using npm
+  - Add custom SCSS styles to Angular src/styles.scss files
+  - Integrate template files into Angular app
+  - Add support for icons and logos
+  - Enhance our application with product images
+
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
