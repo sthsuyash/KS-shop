@@ -1,10 +1,13 @@
-# Ecommerce Project
+# KS shop 
+_(latest version)_
 
-Ecommerce project created with AngularJS, SpringBoot integrating mySQL database.
+KS shop is an ecommerce fullstack web application project created with AngularJS and SpringBoot integrating mySQL database.
 
 - Homepage
 
   ![Project homepage](/images/homepage.png)
+  
+There are different versions of the application updated accordingly and kept in different branches according to versions and latest version is kept in development branch. You can view them in [Release Plan](https://github.com/sthsuyash/ecommerce-angular-springboot/edit/main/README.md#release-plan)
 
 - Application Interaction
 
