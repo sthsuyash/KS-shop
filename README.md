@@ -2,9 +2,13 @@
 
 Ecommerce project created with AngularJS, SpringBoot integrating mySQL database.
 
-![Project homepage]()
+- Homepage
 
-![Application Interaction](https://github.com/sthsuyash/ecommerce-angular-springboot/blob/main/assets/ss/application-interaction.png)
+  ![Project homepage](/images/homepage.png)
+
+- Application Interaction
+
+  ![Application Interaction](/images/application-interaction.png)
 
 ## Table of Contents
 
@@ -30,7 +34,7 @@ Project is created with:
 
 ## Features
 
-The features (to be) implemented in the project: 
+The features (to be) implemented in the project:
 
 1. Show a list of products.
 2. Add products to shopping cart (CRUD).
