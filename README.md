@@ -2,9 +2,13 @@
 
 Ecommerce project created with AngularJS, SpringBoot integrating mySQL database.
 
-![Project homepage]()
+- Homepage
 
-![Application Interaction](https://github.com/sthsuyash/ecommerce-angular-springboot/blob/main/assets/ss/application-interaction.png)
+  ![Project homepage](/images/homepage.png)
+
+- Application Interaction
+
+  ![Application Interaction](/images/application-interaction.png)
 
 ## Table of Contents
 
@@ -54,7 +58,7 @@ ng serve
 
 This is release plan for backend. For frontend, navigate to the [frontend README](https://github.com/sthsuyash/ecommerce-angular-springboot/tree/main/ecommerce-frontend#readme).
 
-### 1) Release 1.0
+### 1) [Release 1.0](https://github.com/sthsuyash/ecommerce-angular-springboot/tree/v1.0)
 
 - Show a list of products
 
@@ -80,12 +84,7 @@ This is release plan for backend. For frontend, navigate to the [frontend README
 
           1. Configure to disable HTTP methods like POST, PUT, DELETE
 
-### 2) Release 2.0
+### 2) [Release 2.0](https://github.com/sthsuyash/ecommerce-angular-springboot/tree/v2.0)
 
 - Add products to shopping cart(CRUD).
 - Shopping cart checkout.
-
-### 3) Release 3.0
-
-- User login/logout security.
-- Track previous orders for logged in users.
