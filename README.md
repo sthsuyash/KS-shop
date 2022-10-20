@@ -88,3 +88,8 @@ This is release plan for backend. For frontend, navigate to the [frontend README
 
 - Add products to shopping cart(CRUD).
 - Shopping cart checkout.
+
+### 3) [Release 3.0](https://github.com/sthsuyash/ecommerce-angular-springboot/tree/v3.0)
+
+- User login/logout security.
+- Track previous orders for logged in users.
