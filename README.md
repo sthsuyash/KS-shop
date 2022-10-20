@@ -1,4 +1,4 @@
-# Ecommerce Project
+# Ecommerce Project (v1.0)
 
 Ecommerce project created with AngularJS, SpringBoot integrating mySQL database.
 
@@ -79,13 +79,3 @@ This is release plan for backend. For frontend, navigate to the [frontend README
        2. Use Spring Data REST and disable the endpoints we don't want.
 
           1. Configure to disable HTTP methods like POST, PUT, DELETE
-
-### 2) Release 2.0
-
-- Add products to shopping cart(CRUD).
-- Shopping cart checkout.
-
-### 3) Release 3.0
-
-- User login/logout security.
-- Track previous orders for logged in users.

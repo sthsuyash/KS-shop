@@ -16,25 +16,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   - Display the data in an HTML page
   - Add CrossOrigin support in Spring Boot app
 
-### 2) Release 2.0
-
-- ### Development Process
-
-  - Online Shop Template Integration
-  - Search for products by category
-  - Search for products by text box
-  - Master/detail view of product
-  - Pagination support for products
-  - Add products to shopping cart
-  - Shopping cart checkout
-
-  - Download the HTML template starter files
-  - Install bootstrap css styles locally using npm
-  - Add custom SCSS styles to Angular src/styles.scss files
-  - Integrate template files into Angular app
-  - Add support for icons and logos
-  - Enhance our application with product images
-
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
