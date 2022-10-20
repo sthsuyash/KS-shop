@@ -4,6 +4,8 @@ Ecommerce project created with AngularJS, SpringBoot integrating mySQL database.
 
 ![Project homepage]()
 
+![Application Interaction](https://github.com/sthsuyash/ecommerce-angular-springboot/blob/main/assets/ss/application-interaction.png)
+
 ## Table of Contents
 
 - [General Info](https://github.com/sthsuyash/ecommerce-angular-springboot/edit/main/README.md#ecommerce-project)
