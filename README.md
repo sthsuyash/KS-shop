@@ -1,6 +1,36 @@
 # Ecommerce Project
 
-## Requirements
+Ecommerce project created with AngularJS, SpringBoot integrating mySQL database.
+
+![Project homepage]()
+
+![Application Interaction](https://github.com/sthsuyash/ecommerce-angular-springboot/blob/main/assets/ss/application-interaction.png)
+
+## Table of Contents
+
+- [General Info](https://github.com/sthsuyash/ecommerce-angular-springboot/edit/main/README.md#ecommerce-project)
+- [Technologies](https://github.com/sthsuyash/ecommerce-angular-springboot/edit/main/README.md#technologies)
+- [Features](https://github.com/sthsuyash/ecommerce-angular-springboot/edit/main/README.md#features)
+- [Setup](https://github.com/sthsuyash/ecommerce-angular-springboot/edit/main/README.md#setup)
+- [Feature Release Plan](https://github.com/sthsuyash/ecommerce-angular-springboot/edit/main/README.md#release-plan)
+
+## Technologies
+
+Project is created with:
+
+- AngularJS 14.2.6
+- SpringBoot 2.7.4
+- TypeScript 4.8.4
+- mySQL 8.x
+- Bootstrap 5.x
+- SCSS
+- npm 8.19.x
+- node 16.18.x
+- HTML5
+
+## Features
+
+The features (to be) implemented in the project: 
 
 1. Show a list of products.
 2. Add products to shopping cart (CRUD).
@@ -8,7 +38,21 @@
 4. User login/logout security.
 5. Track previous orders for logged in users.
 
+## Setup
+
+To run this project locally, perform the following steps:
+
+```git
+git clone https://github.com/sthsuyash/ecommerce-angular-springboot.git ecommerce
+cd ecommerce
+mvn spring-boot:run
+cd ecommerce-frontend
+ng serve
+```
+
 ## Release Plan
+
+This is release plan for backend. For frontend, navigate to the [frontend README](https://github.com/sthsuyash/ecommerce-angular-springboot/tree/main/ecommerce-frontend#readme).
 
 ### 1) Release 1.0
 
